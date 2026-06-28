@@ -1,0 +1,22 @@
+Git: es un sistema de control de versiones que permite registrar y administrar los cambios
+ realizados en un proyecto de software. Facilita el trabajo colaborativo y el seguimiento del
+  historial de modificaciones.
+
+  BRANCH:
+  Una rama es una versión independiente del proyecto que permite desarrollar nuevas funciones
+   o corregir errores sin afectar la versión principal. Después, los cambios pueden unirse al
+    proyecto.
+
+    Repositorio:
+    Es el espacio donde se almacenan los archivos del proyecto y todo su historial de cambios.
+     Puede encontrarse de forma local en el computador o de forma remota en plataformas como 
+     GitHub.
+
+     PUSH:
+     El comando git push envía los commits del repositorio local hacia el repositorio remoto. Así, los
+      cambios quedan disponibles para otros colaboradores.
+
+      MKDIR:
+      El comando mkdir (Make Directory) se utiliza para crear una nueva carpeta o directorio
+       desde la terminal. Es muy útil para organizar los archivos de un proyecto y crear su 
+       estructura de forma rápida.
